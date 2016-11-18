@@ -31,6 +31,7 @@ Login my account - tested
 //- forgotten password - reset password
 //- login with new password
 // ...
+
 Create my account - tested
 //- variations
 //- no filled textboxes
@@ -42,6 +43,7 @@ Create my account - tested
 //- billing adress
 //- newsletter
 // ...
+
 Order Form Page without account as Guest - partially tested
 //- variations
 //- no filled text boxes in checkout
@@ -57,6 +59,7 @@ Order Form Page without account as Guest - partially tested
 //FILL ALL DELIVERY METHOD
 //FILL ALL PAYMENT INFORMATION
 //OTHER INFORMATION
+
 
 Options to config in test:
 -searching final String searchingWord = "monitor"; - word, that is usually used in this webpage, can be changed
